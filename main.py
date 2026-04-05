@@ -17,7 +17,7 @@ if not client.is_user_authorized():
     client.send_code_request(phone)
     client.sign_in(phone, input('Enter verification code: '))
 
-def add_users_to_group():
+def add_users_to_group() -> None:
     """Add users from CSV to selected group"""
     input_file = sys.argv[1]
     users = []
@@ -82,7 +82,7 @@ def add_users_to_group():
             print(f'Error: {str(e)}')
             traceback.print_exc()
 
-def list_users_in_group():
+def list_users_in_group() -> None:
     """Export group members to CSV"""
     result = client(GetDialogsRequest(
         offset_date=None,
@@ -122,7 +122,7 @@ def list_users_in_group():
             ])
     print(f'Saved {len(participants)} members to {filename}')
 
-def display_csv():
+def display_csv() -> None:
     """Display CSV file contents"""
     with open(sys.argv[1], encoding='UTF-8') as file:
         reader = csv.reader(file, delimiter=',', lineterminator='\n')
